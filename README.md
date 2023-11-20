@@ -8,7 +8,7 @@ Ces 3 personnages se différencient par leur force et leur hp , le personnage ay
 
 ### Conclusion: 
 
-Le joueur gagne lorsqu'il arrive en haut à droite de la map .
+Le joueur gagne lorsqu'il arrive en haut à droite de la map en gagnant le combat s'il roncontre un monstre ou un obstacle.
 
 
 
